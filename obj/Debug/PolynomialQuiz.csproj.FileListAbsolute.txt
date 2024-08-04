@@ -1,0 +1,193 @@
+N:\PolynomialQuiz\bin\Debug\PolynomialQuiz.exe.config
+N:\PolynomialQuiz\bin\Debug\PolynomialQuiz.exe
+N:\PolynomialQuiz\bin\Debug\PolynomialQuiz.pdb
+N:\PolynomialQuiz\obj\Debug\PolynomialQuiz.csprojAssemblyReference.cache
+N:\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form1.resources
+N:\PolynomialQuiz\obj\Debug\PolynomialQuiz.Properties.Resources.resources
+N:\PolynomialQuiz\obj\Debug\PolynomialQuiz.csproj.GenerateResource.cache
+N:\PolynomialQuiz\obj\Debug\PolynomialQuiz.exe
+N:\PolynomialQuiz\obj\Debug\PolynomialQuiz.pdb
+N:\PolynomialQuiz\obj\Debug\PolynomialQuiz.Menu.resources
+N:\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form2.resources
+N:\PolynomialQuiz\bin\Debug\HtmlAgilityPack.dll
+N:\PolynomialQuiz\bin\Debug\HtmlAgilityPack.pdb
+N:\PolynomialQuiz\bin\Debug\HtmlAgilityPack.xml
+N:\PolynomialQuiz\obj\Debug\PolynomialQuiz.csproj.CopyComplete
+C:\Users\Samuel CAE\Desktop\PolynomialQuiz (11)\PolynomialQuiz\bin\Debug\PolynomialQuiz.exe.config
+C:\Users\Samuel CAE\Desktop\PolynomialQuiz (11)\PolynomialQuiz\bin\Debug\PolynomialQuiz.exe
+C:\Users\Samuel CAE\Desktop\PolynomialQuiz (11)\PolynomialQuiz\bin\Debug\PolynomialQuiz.pdb
+C:\Users\Samuel CAE\Desktop\PolynomialQuiz (11)\PolynomialQuiz\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Samuel CAE\Desktop\PolynomialQuiz (11)\PolynomialQuiz\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Samuel CAE\Desktop\PolynomialQuiz (11)\PolynomialQuiz\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Samuel CAE\Desktop\PolynomialQuiz (11)\PolynomialQuiz\obj\Debug\PolynomialQuiz.csprojAssemblyReference.cache
+C:\Users\Samuel CAE\Desktop\PolynomialQuiz (11)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form1.resources
+C:\Users\Samuel CAE\Desktop\PolynomialQuiz (11)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form2.resources
+C:\Users\Samuel CAE\Desktop\PolynomialQuiz (11)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Menu.resources
+C:\Users\Samuel CAE\Desktop\PolynomialQuiz (11)\PolynomialQuiz\obj\Debug\PolynomialQuiz.PolynomialQuiz.resources
+C:\Users\Samuel CAE\Desktop\PolynomialQuiz (11)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Properties.Resources.resources
+C:\Users\Samuel CAE\Desktop\PolynomialQuiz (11)\PolynomialQuiz\obj\Debug\PolynomialQuiz.csproj.GenerateResource.cache
+C:\Users\Samuel CAE\Desktop\PolynomialQuiz (11)\PolynomialQuiz\obj\Debug\PolynomialQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Samuel CAE\Desktop\PolynomialQuiz (11)\PolynomialQuiz\obj\Debug\PolynomialQuiz.csproj.CopyComplete
+C:\Users\Samuel CAE\Desktop\PolynomialQuiz (11)\PolynomialQuiz\obj\Debug\PolynomialQuiz.exe
+C:\Users\Samuel CAE\Desktop\PolynomialQuiz (11)\PolynomialQuiz\obj\Debug\PolynomialQuiz.pdb
+C:\Users\Samuel CAE\Desktop\PolynomialQuiz (11)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Tutorial1.resources
+C:\Users\Samuel CAE\Desktop\PolynomialQuiz (11)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form3.resources
+O:\Desktop\PolynomialQuiz (12)\PolynomialQuiz (12)\PolynomialQuiz\bin\Debug\PolynomialQuiz.exe.config
+O:\Desktop\PolynomialQuiz (12)\PolynomialQuiz (12)\PolynomialQuiz\bin\Debug\PolynomialQuiz.exe
+O:\Desktop\PolynomialQuiz (12)\PolynomialQuiz (12)\PolynomialQuiz\bin\Debug\PolynomialQuiz.pdb
+O:\Desktop\PolynomialQuiz (12)\PolynomialQuiz (12)\PolynomialQuiz\bin\Debug\HtmlAgilityPack.dll
+O:\Desktop\PolynomialQuiz (12)\PolynomialQuiz (12)\PolynomialQuiz\bin\Debug\HtmlAgilityPack.pdb
+O:\Desktop\PolynomialQuiz (12)\PolynomialQuiz (12)\PolynomialQuiz\bin\Debug\HtmlAgilityPack.xml
+O:\Desktop\PolynomialQuiz (12)\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form1.resources
+O:\Desktop\PolynomialQuiz (12)\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form2.resources
+O:\Desktop\PolynomialQuiz (12)\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form3.resources
+O:\Desktop\PolynomialQuiz (12)\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Menu.resources
+O:\Desktop\PolynomialQuiz (12)\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.PolynomialQuiz.resources
+O:\Desktop\PolynomialQuiz (12)\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Properties.Resources.resources
+O:\Desktop\PolynomialQuiz (12)\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Tutorial1.resources
+O:\Desktop\PolynomialQuiz (12)\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.csproj.GenerateResource.cache
+O:\Desktop\PolynomialQuiz (12)\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.csproj.CopyComplete
+O:\Desktop\PolynomialQuiz (12)\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.exe
+O:\Desktop\PolynomialQuiz (12)\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.pdb
+O:\Desktop\PolynomialQuiz (12)\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Login.resources
+O:\Desktop\PolynomialQuiz (12)\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.csprojAssemblyReference.cache
+N:\PolynomialQuiz (12)\PolynomialQuiz\bin\Debug\PolynomialQuiz.exe.config
+N:\PolynomialQuiz (12)\PolynomialQuiz\bin\Debug\PolynomialQuiz.exe
+N:\PolynomialQuiz (12)\PolynomialQuiz\bin\Debug\PolynomialQuiz.pdb
+N:\PolynomialQuiz (12)\PolynomialQuiz\bin\Debug\HtmlAgilityPack.dll
+N:\PolynomialQuiz (12)\PolynomialQuiz\bin\Debug\HtmlAgilityPack.pdb
+N:\PolynomialQuiz (12)\PolynomialQuiz\bin\Debug\HtmlAgilityPack.xml
+N:\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.csprojAssemblyReference.cache
+N:\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form1.resources
+N:\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form2.resources
+N:\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form3.resources
+N:\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Quiz.resources
+N:\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Menu.resources
+N:\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.PolynomialQuiz.resources
+N:\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Properties.Resources.resources
+N:\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Tutorial1.resources
+N:\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.csproj.GenerateResource.cache
+N:\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.csproj.CopyComplete
+N:\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.exe
+N:\PolynomialQuiz (12)\PolynomialQuiz\obj\Debug\PolynomialQuiz.pdb
+N:\Final Project\PolynomialQuiz\bin\Debug\PolynomialQuiz.exe.config
+N:\Final Project\PolynomialQuiz\bin\Debug\PolynomialQuiz.exe
+N:\Final Project\PolynomialQuiz\bin\Debug\PolynomialQuiz.pdb
+N:\Final Project\PolynomialQuiz\bin\Debug\HtmlAgilityPack.dll
+N:\Final Project\PolynomialQuiz\bin\Debug\HtmlAgilityPack.pdb
+N:\Final Project\PolynomialQuiz\bin\Debug\HtmlAgilityPack.xml
+N:\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.csprojAssemblyReference.cache
+N:\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form1.resources
+N:\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form2.resources
+N:\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form3.resources
+N:\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.Quiz.resources
+N:\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.Menu.resources
+N:\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.PolynomialQuiz.resources
+N:\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.Properties.Resources.resources
+N:\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.Tutorial1.resources
+N:\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.csproj.GenerateResource.cache
+N:\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.csproj.CopyComplete
+N:\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.exe
+N:\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.pdb
+O:\Final Project\Final Project\PolynomialQuiz\bin\Debug\PolynomialQuiz.exe.config
+O:\Final Project\Final Project\PolynomialQuiz\bin\Debug\PolynomialQuiz.exe
+O:\Final Project\Final Project\PolynomialQuiz\bin\Debug\PolynomialQuiz.pdb
+O:\Final Project\Final Project\PolynomialQuiz\bin\Debug\HtmlAgilityPack.dll
+O:\Final Project\Final Project\PolynomialQuiz\bin\Debug\HtmlAgilityPack.pdb
+O:\Final Project\Final Project\PolynomialQuiz\bin\Debug\HtmlAgilityPack.xml
+O:\Final Project\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.csprojAssemblyReference.cache
+O:\Final Project\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form1.resources
+O:\Final Project\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form2.resources
+O:\Final Project\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form3.resources
+O:\Final Project\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.Login.resources
+O:\Final Project\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.Menu.resources
+O:\Final Project\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.PolynomialQuiz.resources
+O:\Final Project\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.Properties.Resources.resources
+O:\Final Project\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.Tutorial1.resources
+O:\Final Project\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.csproj.GenerateResource.cache
+O:\Final Project\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.csproj.CopyComplete
+O:\Final Project\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.exe
+O:\Final Project\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.pdb
+C:\Users\Samuel CAE\Downloads\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.csprojAssemblyReference.cache
+C:\Users\Samuel CAE\Downloads\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form1.resources
+C:\Users\Samuel CAE\Downloads\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form2.resources
+C:\Users\Samuel CAE\Downloads\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form3.resources
+C:\Users\Samuel CAE\Downloads\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Login.resources
+C:\Users\Samuel CAE\Downloads\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Menu.resources
+C:\Users\Samuel CAE\Downloads\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.PolynomialQuiz.resources
+C:\Users\Samuel CAE\Downloads\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Properties.Resources.resources
+C:\Users\Samuel CAE\Downloads\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Tutorial1.resources
+C:\Users\Samuel CAE\Downloads\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.csproj.GenerateResource.cache
+C:\Users\Samuel CAE\Downloads\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Samuel CAE\Downloads\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.exe
+C:\Users\Samuel CAE\Downloads\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.pdb
+C:\Users\Samuel CAE\Downloads\PolynomialQuiz (2)\PolynomialQuiz\bin\Debug\PolynomialQuiz.exe.config
+C:\Users\Samuel CAE\Downloads\PolynomialQuiz (2)\PolynomialQuiz\bin\Debug\PolynomialQuiz.exe
+C:\Users\Samuel CAE\Downloads\PolynomialQuiz (2)\PolynomialQuiz\bin\Debug\PolynomialQuiz.pdb
+C:\Users\Samuel CAE\Downloads\PolynomialQuiz (2)\PolynomialQuiz\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Samuel CAE\Downloads\PolynomialQuiz (2)\PolynomialQuiz\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Samuel CAE\Downloads\PolynomialQuiz (2)\PolynomialQuiz\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Samuel CAE\Downloads\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.csproj.CopyComplete
+O:\project\project\PolynomialQuiz (2)\PolynomialQuiz\bin\Debug\PolynomialQuiz.exe.config
+O:\project\project\PolynomialQuiz (2)\PolynomialQuiz\bin\Debug\PolynomialQuiz.exe
+O:\project\project\PolynomialQuiz (2)\PolynomialQuiz\bin\Debug\PolynomialQuiz.pdb
+O:\project\project\PolynomialQuiz (2)\PolynomialQuiz\bin\Debug\HtmlAgilityPack.dll
+O:\project\project\PolynomialQuiz (2)\PolynomialQuiz\bin\Debug\HtmlAgilityPack.pdb
+O:\project\project\PolynomialQuiz (2)\PolynomialQuiz\bin\Debug\HtmlAgilityPack.xml
+O:\project\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.csprojAssemblyReference.cache
+O:\project\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form1.resources
+O:\project\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form2.resources
+O:\project\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form3.resources
+O:\project\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Login.resources
+O:\project\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Menu.resources
+O:\project\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.PolynomialQuiz.resources
+O:\project\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Properties.Resources.resources
+O:\project\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Tutorial1.resources
+O:\project\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.csproj.GenerateResource.cache
+O:\project\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.csproj.CopyComplete
+O:\project\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.exe
+O:\project\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.pdb
+C:\Users\Samuel CAE\Downloads\project(1)\project\PolynomialQuiz (2)\PolynomialQuiz\bin\Debug\PolynomialQuiz.exe.config
+C:\Users\Samuel CAE\Downloads\project(1)\project\PolynomialQuiz (2)\PolynomialQuiz\bin\Debug\PolynomialQuiz.exe
+C:\Users\Samuel CAE\Downloads\project(1)\project\PolynomialQuiz (2)\PolynomialQuiz\bin\Debug\PolynomialQuiz.pdb
+C:\Users\Samuel CAE\Downloads\project(1)\project\PolynomialQuiz (2)\PolynomialQuiz\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Samuel CAE\Downloads\project(1)\project\PolynomialQuiz (2)\PolynomialQuiz\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Samuel CAE\Downloads\project(1)\project\PolynomialQuiz (2)\PolynomialQuiz\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Samuel CAE\Downloads\project(1)\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.csprojAssemblyReference.cache
+C:\Users\Samuel CAE\Downloads\project(1)\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form1.resources
+C:\Users\Samuel CAE\Downloads\project(1)\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form2.resources
+C:\Users\Samuel CAE\Downloads\project(1)\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form3.resources
+C:\Users\Samuel CAE\Downloads\project(1)\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Login.resources
+C:\Users\Samuel CAE\Downloads\project(1)\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Menu.resources
+C:\Users\Samuel CAE\Downloads\project(1)\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.PolynomialQuiz.resources
+C:\Users\Samuel CAE\Downloads\project(1)\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Properties.Resources.resources
+C:\Users\Samuel CAE\Downloads\project(1)\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.Tutorial1.resources
+C:\Users\Samuel CAE\Downloads\project(1)\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.csproj.GenerateResource.cache
+C:\Users\Samuel CAE\Downloads\project(1)\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Samuel CAE\Downloads\project(1)\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.csproj.CopyComplete
+C:\Users\Samuel CAE\Downloads\project(1)\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.exe
+C:\Users\Samuel CAE\Downloads\project(1)\project\PolynomialQuiz (2)\PolynomialQuiz\obj\Debug\PolynomialQuiz.pdb
+C:\Users\Samuel CAE\Desktop\College stuff\Final Project\PolynomialQuiz\bin\Debug\PolynomialQuiz.exe.config
+C:\Users\Samuel CAE\Desktop\College stuff\Final Project\PolynomialQuiz\bin\Debug\PolynomialQuiz.exe.manifest
+C:\Users\Samuel CAE\Desktop\College stuff\Final Project\PolynomialQuiz\bin\Debug\PolynomialQuiz.application
+C:\Users\Samuel CAE\Desktop\College stuff\Final Project\PolynomialQuiz\bin\Debug\PolynomialQuiz.exe
+C:\Users\Samuel CAE\Desktop\College stuff\Final Project\PolynomialQuiz\bin\Debug\PolynomialQuiz.pdb
+C:\Users\Samuel CAE\Desktop\College stuff\Final Project\PolynomialQuiz\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Samuel CAE\Desktop\College stuff\Final Project\PolynomialQuiz\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Samuel CAE\Desktop\College stuff\Final Project\PolynomialQuiz\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Samuel CAE\Desktop\College stuff\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.csprojAssemblyReference.cache
+C:\Users\Samuel CAE\Desktop\College stuff\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form1.resources
+C:\Users\Samuel CAE\Desktop\College stuff\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form2.resources
+C:\Users\Samuel CAE\Desktop\College stuff\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.Form3.resources
+C:\Users\Samuel CAE\Desktop\College stuff\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.Login.resources
+C:\Users\Samuel CAE\Desktop\College stuff\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.Menu.resources
+C:\Users\Samuel CAE\Desktop\College stuff\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.PolynomialQuiz.resources
+C:\Users\Samuel CAE\Desktop\College stuff\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.Properties.Resources.resources
+C:\Users\Samuel CAE\Desktop\College stuff\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.Tutorial1.resources
+C:\Users\Samuel CAE\Desktop\College stuff\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.csproj.GenerateResource.cache
+C:\Users\Samuel CAE\Desktop\College stuff\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Samuel CAE\Desktop\College stuff\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.exe.manifest
+C:\Users\Samuel CAE\Desktop\College stuff\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.application
+C:\Users\Samuel CAE\Desktop\College stuff\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.csproj.CopyComplete
+C:\Users\Samuel CAE\Desktop\College stuff\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.exe
+C:\Users\Samuel CAE\Desktop\College stuff\Final Project\PolynomialQuiz\obj\Debug\PolynomialQuiz.pdb
